@@ -3,8 +3,8 @@
     <Filename>InGamePanel_TheFlightSimKit.spb</Filename>
     <InGamePanels.InGamePanelDefinition
         id="PANEL_THEFLIGHTSIMKIT"
-        Name="BrowserTest"
-        url="html_ui/InGamePanels/BrowserTest/BrowserTest.html"
+        Name="The Flight Sim Kit"
+        url="html_ui/InGamePanels/TheFlightSimKit/TheFlightSimKit.html"
         resizeDirections="Both"
         minWidth="4"
         minHeight="4"
